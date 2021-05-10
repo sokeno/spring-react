@@ -1,0 +1,6 @@
+com\seamlineinnovations\fullstack\controllers\UserController.class
+com\seamlineinnovations\fullstack\repositories\UserRepository.class
+com\seamlineinnovations\fullstack\FullstackApplication.class
+com\seamlineinnovations\fullstack\controllers\WebMainController.class
+com\seamlineinnovations\fullstack\models\User.class
+com\seamlineinnovations\fullstack\exceptions\ResourceNotFoundException.class
